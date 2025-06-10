@@ -1,0 +1,6 @@
+[submodule "deps/pomelo-udp-native"]
+	path = deps/pomelo-udp-native
+	url = https://github.com/pomelo-net/pomelo-udp-native.git
+[submodule "deps/quickjs"]
+	path = deps/quickjs
+	url = https://github.com/quickjs-ng/quickjs.git
